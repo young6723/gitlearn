@@ -1,0 +1,75 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		0C34ECBB2D2D30050061A63D /* readme.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = readme.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		0C34ECB42D2D2FED0061A63D = {
+			isa = PBXGroup;
+			children = (
+				0C34ECBB2D2D30050061A63D /* readme.txt */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		0C34ECB52D2D2FED0061A63D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1620;
+			};
+			buildConfigurationList = 0C34ECB82D2D2FED0061A63D /* Build configuration list for PBXProject "gitlearn" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0C34ECB42D2D2FED0061A63D;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		0C34ECB92D2D2FED0061A63D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		0C34ECBA2D2D2FED0061A63D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0C34ECB82D2D2FED0061A63D /* Build configuration list for PBXProject "gitlearn" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0C34ECB92D2D2FED0061A63D /* Debug */,
+				0C34ECBA2D2D2FED0061A63D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0C34ECB52D2D2FED0061A63D /* Project object */;
+}
